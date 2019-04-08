@@ -17,7 +17,7 @@ int way_cnt = 0;//广度计数
 
 char stop = 0;
 
-char act_temp = 0;
+unsigned char act_temp = 0;
 
 void action(char from,char to)
 {
