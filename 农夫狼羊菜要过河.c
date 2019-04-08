@@ -113,7 +113,7 @@ void step_back()
 	}
 }
 
-char search_the_tree()
+void search_the_tree()
 {
 
 	while(stop==0)
